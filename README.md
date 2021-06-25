@@ -2,7 +2,7 @@
 
 
 Liên lạc: 
-[![Facebook](https://www.facebook.com/BaoLong031203/)
+[![Facebook](https://www.facebook.com/BaoLong031203/)]
 
 
 Mở file config.js sửa nội dung theo mẫu
