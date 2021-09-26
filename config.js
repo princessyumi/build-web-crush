@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hi Phương Anh!',
+    introTitle: 'Hi !',
     introDesc: `Hôm qua có ánh chiều tà
     Ngồi bên đồi núi bồi hồi nhớ em`,
     btnIntro: 'Next',
@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 9 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Next',
-    reply: 'Vì em là Phương Anh',
+    reply: 'Vì em là ',
     mess: 'Anh biết mà. Yêu em nhiù nhìu',
     messDesc: 'Lo học mà thi thiệt tốt đi nha',
     btnAccept: 'Okeee lun',
