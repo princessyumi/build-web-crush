@@ -1,17 +1,15 @@
-const CONFIG = {
-    introTitle: 'Hi !',
-    introDesc: `Hôm qua có ánh chiều tà
-    Ngồi bên đồi núi bồi hồi nhớ em`,
-    btnIntro: 'Next',
-    title: 'Phải chăng em vẫn cho anh một cơ hội',
-    desc: 'Phải chăng em vẫn chờ anh',
-    btnYes: 'Thích anh 🥰',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 9 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Next',
-    reply: 'Vì em là ',
-    mess: 'Anh biết mà. Yêu em nhiù nhìu',
-    messDesc: 'Lo học mà thi thiệt tốt đi nha',
-    btnAccept: 'Okeee lun',
-    messLink: 'https://www.facebook.com/messages/t/100004968302920' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+const CONFIG = {Crush}
+    introTitle: 'Hi cưng!!!',
+    introDesc: `Cậu có biết cậu khác những vì sao ở điểm nào không? Sao ở trên trời, cậu ở trong tim tớ đó`,
+    btnIntro: 'Next<3',
+    title: 'Phải chăng cậu cũng thích tớ',
+    desc: 'Hay chỉ là có mình tớ :(( ',
+    btnYes: 'Thích cậu đã lâu 🥰',
+    btnNo: 'Không, em gái à :)',
+    question:'Mọi người thì thích trà sữa. Còn tui thì thích trà trộn vào tim cậu ó. ❤',
+    btnReply: 'Next <3',
+    reply: 'thanks so much <3',
+    mess: 'tui biết gòi. i love you more than i can say',
+    messDesc: 'chúc cậu có được toi hehe',
+    btnAccept: 'hí hí ok luôn',
+    messLink: 
